@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Storage;
 class ProductionController extends Controller
 {
     // laravel
-    // git test
+    // git service test
     
     public function index(Request $request){
         return view('production.top.Pics');
