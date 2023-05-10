@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Storage;
 
 class ProductionController extends Controller
 {
-    // laravel
+    // laravel production
     // git service test
     
     public function index(Request $request){
