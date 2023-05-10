@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Storage;
 
 class ProductionController extends Controller
 {
-    //
+    // laravel
     
     public function index(Request $request){
         return view('production.top.Pics');
